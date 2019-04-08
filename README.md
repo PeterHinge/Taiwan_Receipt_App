@@ -6,6 +6,7 @@ Only uses OpenCV for webcam management, rest is native python code (including th
 
 _____________________________________________________________________
 Project plan:
+2019-04-08: Build TF NN to recognize costum dataset
 
 
 
