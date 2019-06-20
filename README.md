@@ -5,12 +5,9 @@ This is an app that can recognize 8-digit Taiwanese receipts for the receipts lo
 The first version of this application (first_app) uses a custom made recogizing algorihm, however it wasn't espacially good, so I desided to use a TF CNN instead (version 2), which is much more accurate. OpenCV for webcam management.
 
 Requirements:
-
-Python 3.6
-
-OpenCV 4.0
-
-TensorFlow 1.12
+<br>Python 3.6
+<br>OpenCV 4.0
+<br>TensorFlow 1.12
 
 _____________________________________________________________________
 Project plan:
