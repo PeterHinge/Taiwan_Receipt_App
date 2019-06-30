@@ -2,7 +2,7 @@
 
 This is an app that can recognize 8-digit Taiwanese receipts for the receipts lottery.
 
-The first version of this application (first_app) uses a custom made recogizing algorihm, however it wasn't espacially good, so I desided to use a TF CNN instead (version 2), which is much more accurate. OpenCV for webcam management.
+The first version of this application (first_app) uses a custom made recogizing algorihm, however it wasn't espacially good, so I desided to use a TF CNN instead (version 2), which is much more accurate. OpenCV for webcam management. This source code does not include the final version, but the overall structure of the program.
 
 Requirements:
 <br>Python 3.6
