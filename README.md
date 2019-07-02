@@ -11,11 +11,11 @@ Requirements:
 
 _____________________________________________________________________
 Project plan:
-2019-04-08: Build TF NN to recognize costum dataset
+<br>2019-04-08: Build TF NN to recognize costum dataset
 
 _____________________________________________________________________
 Projct log: 
-2019-04-01: Created a compiler for data
-2019-04-12: Created basic TF NN to recognize dataset
-2019-04-13: Did some optimizing.
-2019-04-15: Made NN display confidence interval
+<br>2019-04-01: Created a compiler for data
+<br>2019-04-12: Created basic TF NN to recognize dataset
+<br>2019-04-13: Did some optimizing.
+<br>2019-04-15: Made NN display confidence interval
